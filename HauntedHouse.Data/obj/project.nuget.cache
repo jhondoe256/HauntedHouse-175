@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ao+4TuknMAa3YiGwpkATe3guBdQsVrEov3gfo6ZJZCH9dX9XogNrEV7KqDT+fPOq7H68sgAWPGvpLEyP01n5Zw==",
+  "success": true,
+  "projectFilePath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\csharpBasics\\12_HauntedHouseApp\\HauntedHouse.Data\\HauntedHouse.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

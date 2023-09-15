@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\bin\Debug\net7.0\HauntedHouse.Repository.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\bin\Debug\net7.0\HauntedHouse.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\bin\Debug\net7.0\HauntedHouse.Repository.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\bin\Debug\net7.0\HauntedHouse.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\bin\Debug\net7.0\HauntedHouse.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\refint\HauntedHouse.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\HauntedHouse.Repository.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\csharpBasics\12_HauntedHouseApp\HauntedHouse.Repository\obj\Debug\net7.0\ref\HauntedHouse.Repository.dll

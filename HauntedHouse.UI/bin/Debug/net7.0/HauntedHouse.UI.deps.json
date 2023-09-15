@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HauntedHouse.UI/1.0.0": {
+        "dependencies": {
+          "HauntedHouse.Data": "1.0.0",
+          "HauntedHouse.Repository": "1.0.0"
+        },
+        "runtime": {
+          "HauntedHouse.UI.dll": {}
+        }
+      },
+      "HauntedHouse.Data/1.0.0": {
+        "runtime": {
+          "HauntedHouse.Data.dll": {}
+        }
+      },
+      "HauntedHouse.Repository/1.0.0": {
+        "dependencies": {
+          "HauntedHouse.Data": "1.0.0"
+        },
+        "runtime": {
+          "HauntedHouse.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HauntedHouse.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HauntedHouse.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HauntedHouse.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
